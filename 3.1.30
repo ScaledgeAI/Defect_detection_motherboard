@@ -1,0 +1,23 @@
+Collecting matplotlib
+  Using cached https://files.pythonhosted.org/packages/df/3f/6093a23565d0f50ce433f56223fcc34af6c912cd4331dc582ba29d9b5a17/matplotlib-3.5.3-cp37-cp37m-win_amd64.whl
+Requirement already satisfied: numpy>=1.17 in c:\users\kunje\appdata\local\programs\python\python37\lib\site-packages (from matplotlib) (1.21.6)
+Collecting cycler>=0.10 (from matplotlib)
+  Using cached https://files.pythonhosted.org/packages/5c/f9/695d6bedebd747e5eb0fe8fad57b72fdf25411273a39791cde838d5a8f51/cycler-0.11.0-py3-none-any.whl
+Collecting kiwisolver>=1.0.1 (from matplotlib)
+  Downloading https://files.pythonhosted.org/packages/03/93/11790e8e81b89acd3a1c8a6b501f8a05b1c41beee0990582699cdda29557/kiwisolver-1.4.4-cp37-cp37m-win_amd64.whl (54kB)
+Collecting fonttools>=4.22.0 (from matplotlib)
+  Downloading https://files.pythonhosted.org/packages/e3/d9/e9bae85e84737e76ebbcbea13607236da0c0699baed0ae4f1151b728a608/fonttools-4.38.0-py3-none-any.whl (965kB)
+Collecting pyparsing>=2.2.1 (from matplotlib)
+  Downloading https://files.pythonhosted.org/packages/6c/10/a7d0fa5baea8fe7b50f448ab742f26f52b80bfca85ac2be9d35cdd9a3246/pyparsing-3.0.9-py3-none-any.whl (98kB)
+Collecting packaging>=20.0 (from matplotlib)
+  Downloading https://files.pythonhosted.org/packages/ed/35/a31aed2993e398f6b09a790a181a7927eb14610ee8bbf02dc14d31677f1c/packaging-23.0-py3-none-any.whl (42kB)
+Collecting pillow>=6.2.0 (from matplotlib)
+  Downloading https://files.pythonhosted.org/packages/18/c5/fbbcab5cc53c4278c1843d985c6e8e80c79f993c6c1e07f587f34afc76ee/Pillow-9.4.0-cp37-cp37m-win_amd64.whl (2.5MB)
+Collecting python-dateutil>=2.7 (from matplotlib)
+  Using cached https://files.pythonhosted.org/packages/36/7a/87837f39d0296e723bb9b62bbb257d0355c7f6128853c78955f57342a56d/python_dateutil-2.8.2-py2.py3-none-any.whl
+Collecting typing-extensions; python_version < "3.8" (from kiwisolver>=1.0.1->matplotlib)
+  Downloading https://files.pythonhosted.org/packages/31/25/5abcd82372d3d4a3932e1fa8c3dbf9efac10cc7c0d16e78467460571b404/typing_extensions-4.5.0-py3-none-any.whl
+Collecting six>=1.5 (from python-dateutil>=2.7->matplotlib)
+  Using cached https://files.pythonhosted.org/packages/d9/5a/e7c31adbe875f2abbb91bd84cf2dc52d792b5a01506781dbcf25c91daf11/six-1.16.0-py2.py3-none-any.whl
+Installing collected packages: cycler, typing-extensions, kiwisolver, fonttools, pyparsing, packaging, pillow, six, python-dateutil, matplotlib
+Successfully installed cycler-0.11.0 fonttools-4.38.0 kiwisolver-1.4.4 matplotlib-3.5.3 packaging-23.0 pillow-9.4.0 pyparsing-3.0.9 python-dateutil-2.8.2 six-1.16.0 typing-extensions-4.5.0

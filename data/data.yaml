@@ -1,0 +1,5 @@
+train: ../Dataset/train/
+val: ../Dataset/valid/
+
+nc: 11
+names: ['CPU_FAN_NO_Screws', 'CPU_FAN_Screw_loose', 'CPU_FAN_Screws', 'CPU_fan', 'CPU_fan_port', 'CPU_fan_port_detached', 'Incorrect_Screws', 'Loose_Screws', 'No_Screws', 'Scratch', 'Screws']
